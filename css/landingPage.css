@@ -1,0 +1,8 @@
+.align-mixed {
+    text-align: justify;
+}
+.align-mixed::after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
